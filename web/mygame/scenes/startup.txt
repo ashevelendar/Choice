@@ -1,28 +1,6 @@
-<<<<<<< HEAD
-*comment Copyright 2010 by Dan Fabulich.
-*comment 
-*comment Dan Fabulich licenses this file to you under the
-*comment ChoiceScript License, Version 1.0 (the "License"); you may
-*comment not use this file except in compliance with the License. 
-*comment You may obtain a copy of the License at
-*comment 
-*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
-*comment 
-*comment See the License for the specific language governing
-*comment permissions and limitations under the License.
-*comment 
-*comment Unless required by applicable law or agreed to in writing,
-*comment software distributed under the License is distributed on an
-*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-*comment either express or implied.
-
-*title My First ChoiceScript Game
-*author Anonymous
-=======
 *title The Magical Plight
 *author Ashe
 
->>>>>>> 9ca2d9656a8e711e3414ac154187651b5f6ec1d7
 *scene_list
   startup
   animal
@@ -127,7 +105,7 @@ His single eye sweeps across the square.
 
 He pauses.
 
-"A shard of the Orb. The vile creation of the Arch Magi that nearly destroyed our world."
+"A shard of the Sphere of Dal'Aran. The vile creation of the Arch Magi that nearly destroyed our world."
 
 Uneasy murmurs spread through the crowd.
 
