@@ -55,7 +55,7 @@ Your majesty, your people are starving in the streets, and threaten revolution.
 Our enemies to the west are weak, but they threaten soon to invade.  What will you do?
 
 *choice
-  #Make pre-emptive war on the western lands.
+  #Make WAAAAAR
     If you can seize their territory, your kingdom will flourish.  But your army's
     morale is low and the kingdom's armory is empty.  How will you win the war?
     *choice
