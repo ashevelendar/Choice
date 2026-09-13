@@ -1,5 +1,3 @@
-THIS IS A TEST
-
 *comment Copyright 2010 by Dan Fabulich.
 *comment 
 *comment Dan Fabulich licenses this file to you under the
