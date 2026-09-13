@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *comment Copyright 2010 by Dan Fabulich.
 *comment 
 *comment Dan Fabulich licenses this file to you under the
@@ -17,6 +18,11 @@
 
 *title My First ChoiceScript Game
 *author Anonymous
+=======
+*title The Magical Plight
+*author Ashe
+
+>>>>>>> 9ca2d9656a8e711e3414ac154187651b5f6ec1d7
 *scene_list
   startup
   animal
@@ -25,62 +31,190 @@
   ending
   death
 
-*create leadership 50
-*create strength 50
+The world you know was not always as it is now.
 
-Welcome to your very first ChoiceScript game!
+Two centuries ago, the Magi stood above the peoples of the world. Reclusive and immensely powerful, they shaped reality with magic and built wonders that seemed impossible to those who lived beneath them.
 
-Copyright 2010 by Dan Fabulich.
+Then they decided that even the gods were not beyond their reach.
 
-Dan Fabulich licenses this file to you under the
-ChoiceScript License, Version 1.0 (the "License"); you may
-not use this file except in compliance with the License. 
-You may obtain a copy of the License at
+In the halls of Borealis's Library, the Arch Magi created the Sphere of Dal'Aran, an artefact of unimaginable power. With it, magic could be wielded without the consequences, limits, or preparation that had once restrained it.
 
-*link http://www.choiceofgames.com/LICENSE-1.0.txt
+The Magi had given themselves the power to do almost anything.
 
-See the License for the specific language governing
-permissions and limitations under the License.
+And they used it.
 
-Unless required by applicable law or agreed to in writing,
-software distributed under the License is distributed on an
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-either express or implied.
+Between 521 and 523 BMW, their experiments and ambitions unleashed horrors upon the world. Plagues spread. Earthquakes tore through the land. Monstrous creations appeared where once there had been cities and fields. Those who begged the Magi for aid were ignored, rejected, or attacked.
 
-*page_break
+Eventually, the people had enough.
 
-Your majesty, your people are starving in the streets, and threaten revolution.
-Our enemies to the west are weak, but they threaten soon to invade.  What will you do?
+The Warrior Guild rose against them. What began as rebellion became a war that would last for generations. From 525 to 598 BMW, the Magi and their enemies fought across the lands, until the conflict finally reached Borealis itself.
 
-*choice
-  #Make WAAAAAR
-    If you can seize their territory, your kingdom will flourish.  But your army's
-    morale is low and the kingdom's armory is empty.  How will you win the war?
-    *choice
-      #Drive the peasants like slaves; if we work hard enough, we'll win.
-        Unfortunately, morale doesn't work like that.  Your army soon turns against you
-        and the kingdom falls to the western barbarians.
-        *finish
-      #Appoint charismatic knights and give them land, peasants, and resources.
-        Your majesty's people are eminently resourceful.  Your knights win the day,
-        but take care: they may soon demand a convention of parliament.
-        *finish
-      #Steal food and weapons from the enemy in the dead of night.
-        A cunning plan.  Soon your army is a match for the westerners; they choose
-        not to invade for now, but how long can your majesty postpone the inevitable?
-        *finish
-  #Beat swords to plowshares and trade food to the westerners for protection.
-    The westerners have you at the point of a sword.  They demand unfair terms
-    from you.
-    *choice
-      #Accept the terms for now.
-        Eventually, the barbarian westerners conquer you anyway, destroying their
-        bread basket, and the entire region starves.
-        *finish
-      #Threaten to salt our fields if they don't offer better terms.
-        They blink.  Your majesty gets a fair price for wheat.
-        *finish
-  #Abdicate the throne. I have clearly mismanaged this kingdom!
-    The kingdom descends into chaos, but you manage to escape with your own hide.
-    Perhaps in time you can return to restore order to this fair land.
-    *finish
+The Warrior Guild laid siege to the Library. Their goal was simple: destroy the Sphere and end the Magi's dominion forever.
+
+They succeeded.
+
+What followed became known as the Rapture.
+
+The destruction of the Sphere tore through the world, leaving devastation in its wake. The old order was broken. The descendants of the Magi were hunted. Their lands became a scar upon the world, a region now known simply as the Wasteland.
+
+Out of the ashes, an alliance of races formed the Empire.
+
+The Empire promised order. It promised protection. It promised that the horrors of the Magi would never be allowed to happen again.
+
+For generations, that promise shaped every part of Imperial life.
+
+People with magical potential were feared. The Order of Divine grew in power, its teachings built around the absolute rejection of arcane magic and the worship of Saint Faith, the figure whose legend had become inseparable from the Empire's victory over the Magi.
+
+Templars watched for signs of magical corruption. Inquisitors hunted those who carried what the Empire called the Taint. Phylacteries were developed to detect magical energy. The Empire's walls, soldiers, and strange devices ensured that the survivors of the old world remained under constant watch.
+
+Even the Magi-Tech used by the Order carried a secret of its own.
+
+The Empire's greatest magical devices were not truly understood by ordinary men. Enslaved Magi were secretly forced to create and maintain them, while the Order concealed the truth from almost everyone beneath layers of doctrine and secrecy.
+
+And so the Empire endured.
+
+For a hundred years, the Wasteland remained a place of monsters, ruins, and forbidden memories.
+
+Until now.
+
+Last week, someone breached the Citadel.
+
+The Artifactorium, one of the most heavily protected locations in the Empire, was infiltrated. Its guards were slaughtered without a sound. Its Magi-Tech defences were bypassed.
+
+And something was stolen.
+
+A shard of the Sphere of Dal'Aran.
+
+Now, in the dim light of early morning, the main square of the Citadel is filled with Templars, volunteers, conscripts, and prisoners dragged from their cells.
+
+Ballistae line the walls. Crossbows are ready. Templars stand in disciplined formations, watching the gathered crowd with grim suspicion.
+
+At the centre of it all stands a man in blood-red armour.
+
+Knight Commander Eranthos.
+
+One of his eyes is missing, lost in a battle long ago. The armour he wears is more than a symbol of rank. It is a reminder of the people he has buried, comrades and family alike, and of the price he believes must be paid to protect the Empire.
+
+For the Magi standing among the crowd, his presence carries a different meaning.
+
+They know him.
+
+They know what he represents.
+
+Eranthos steps forward.
+
+The square falls silent.
+
+"Attention!"
+
+Every Templar straightens.
+
+The Magi struggle against the sudden light after being dragged from their cells with sacks over their heads.
+
+Eranthos raises his head toward the gathered soldiers and begins to pray to Saint Faith.
+
+The Templars bow their heads.
+
+For several minutes, the only sound in the square is the solemn prayer of the Order.
+
+Then the Knight Commander's voice changes.
+
+"Brothers and sisters of the Order."
+
+His single eye sweeps across the square.
+
+"Last week, our Citadel suffered a grave breach of security. An intruder entered the Artifactorium, bypassed our defences, slaughtered our guards, and stole an artefact."
+
+He pauses.
+
+"A shard of the Orb. The vile creation of the Arch Magi that nearly destroyed our world."
+
+Uneasy murmurs spread through the crowd.
+
+Eranthos lets them continue for only a moment.
+
+"The Emperor himself has ordered us to find this thief."
+
+His voice hardens.
+
+"And we will find them."
+
+The Seekers tracked the magical energy released by the stolen shard across the Empire. Eventually, the trail led west, beyond the safety of Imperial civilisation and into the Wasteland, where the volatile magic of the old world swallowed the trail completely.
+
+The order is simple.
+
+Groups of five will leave the Citadel.
+
+They will follow different routes into the west.
+
+They will find the thief.
+
+They will find the remaining shards.
+
+And they will bring them back.
+
+A voice from the crowd breaks the silence.
+
+"Commander. What about the Magi? Why are they here?"
+
+Eranthos's expression darkens.
+
+"The Emperor has commanded that they aid us. Their magic will be used to track the thief and provide whatever assistance is necessary."
+
+The words are clearly distasteful to him.
+
+"This is the Emperor's command. And we will obey."
+
+Another voice rises from the crowd.
+
+"What stops them from killing us in our sleep? Running away? Casting magic?"
+
+Eranthos smiles.
+
+It is not a comforting smile.
+
+Nurses from the Faith arm of the Order step into the square, carrying strange devices resembling ink pens.
+
+One by one, they approach the gathered groups.
+
+A word is written upon the hand of every member.
+
+The ink disappears almost immediately.
+
+Eranthos raises his hand.
+
+"This is our latest development in Magi-Tech. The ink acts as a detector. Our Seekers will be able to find you wherever you are."
+
+He pauses.
+
+"And if anyone from your group dies, the ink will know."
+
+A murmur passes through the square.
+
+"If you are more than two hundred and fifty feet apart, your blood will begin to boil. Slowly."
+
+Silence.
+
+Eranthos looks across the assembled groups.
+
+"These are your orders."
+
+His voice rings against the stone walls of the Citadel.
+
+"Make the Emperor proud, Templars."
+
+The gathered soldiers begin to move.
+
+Maps are distributed. Routes are assigned. Groups are formed.
+
+Beyond the walls of the Citadel lies an Empire built upon fear of magic.
+
+Beyond the Empire lies the Wasteland, where the scars of the old world have never truly healed.
+
+Somewhere beyond it all is a thief carrying a fragment of the Sphere of Dal'Aran.
+
+And somewhere, hidden in the ruins of the past, are the remaining shards.
+
+Your story begins here.
+
+*finish
